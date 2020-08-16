@@ -1,3 +1,5 @@
+#! python3
+
 from random import shuffle
 
 suits = ("Hearts", "Diamonds", "Spades", "Clubs")
